@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Sparks Foundation</string>
+
+    <string name="facebook_app_id">4292618857417907</string>
+    <string name="fb_login_protocol_scheme">fb4292618857417907</string>
+
+    <string name="email">example@gmail.com</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="login">LOG IN</string>
+</resources>
